@@ -18,11 +18,11 @@ export default function DomainEnquiryPage() {
   }, []);
 
   const handleEmailClick = () => {
-    window.location.href = 'mailto:your-email@gmail.com?subject=Inquiry for indiapharmacy.in&body=Hello, I am interested in purchasing the domain indiapharmacy.in. Please provide more details.';
+    window.location.href = 'mailto:your-shriyansh.mishra@zohomail.in?subject=Inquiry for indiapharmacy.in&body=Hello, I am interested in purchasing the domain indiapharmacy.in. Please provide more details.';
   };
 
   const handleWhatsAppClick = () => {
-    window.open('https://wa.me/919876543210', '_blank');
+    window.open('https://wa.me/7828047646', '_blank');
   };
 
   return (
