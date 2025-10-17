@@ -171,7 +171,7 @@ export default function DomainEnquiryPage() {
                 </svg>
                 <div className="text-left">
                   <p className="text-xs opacity-90">Chat on WhatsApp</p>
-                  <p className="text-lg font-black">+91 98765 43210</p>
+                  <p className="text-lg font-black">+91 7828047646</p>
                 </div>
               </button>
             </div>
