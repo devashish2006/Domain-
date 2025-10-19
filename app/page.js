@@ -95,16 +95,16 @@ export default function DomainEnquiryPage() {
             <div className="bg-gradient-to-br from-emerald-500/10 to-green-500/10 rounded-2xl p-8 mb-10 border border-emerald-500/30 text-center">
               <p className="text-emerald-400 text-sm font-bold uppercase tracking-wider mb-3">Special Launch Offer</p>
               <div className="flex items-center justify-center gap-4 mb-2">
-                <span className="text-3xl md:text-4xl text-gray-500 line-through font-bold">INR 12,999</span>
+                <span className="text-3xl md:text-4xl text-gray-500 line-through font-bold">₹ 12,999</span>
                 <div className="bg-red-500 text-white px-4 py-1 rounded-full text-sm font-bold animate-pulse">
                   62% OFF
                 </div>
               </div>
               <div className="flex items-baseline justify-center gap-2 mb-4">
                 <span className="text-6xl md:text-7xl font-black text-transparent bg-clip-text bg-gradient-to-r from-emerald-300 to-green-300">
-                  INR 4,999
+                  ₹ 4,999
                 </span>
-                <span className="text-2xl text-gray-400 font-semibold">USD</span>
+                <span className="text-2xl text-gray-400 font-semibold">₹</span>
               </div>
               <p className="text-gray-400 text-sm">
                 🎯 One-time payment • 🔒 Secure transfer • ⚡ Instant ownership
