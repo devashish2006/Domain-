@@ -58,7 +58,7 @@ export default function DomainEnquiryPage() {
   }, []);
 
   const handleEmailClick = () => {
-    window.location.href = 'mailto:your-shriyansh.mishra@zohomail.in?subject=Inquiry for indiapharmacy.in&body=Hello, I am interested in purchasing the domain indiapharmacy.in. Please provide more details.';
+    window.location.href = 'mailto:shriyansh.mishra@zohomail.in?subject=Inquiry for indiapharmacy.in&body=Hello, I am interested in purchasing the domain indiapharmacy.in. Please provide more details.';
   };
 
   const handleWhatsAppClick = () => {
